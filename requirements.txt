@@ -1,8 +1,0 @@
-# requirements.txt
-pandas
-numpy
-matplotlib
-jupyter
-scikit-learn
-tensorflow
-keras
